@@ -58,7 +58,7 @@ const App = () => {
           Redux re-renders only the components subscribed to the changed slice.
         </p>
         <p style={{ marginTop: "6px", color: "#999", fontSize: "12px" }}>
-          GitHub: github.com/your-username/redux-vs-context
+          GitHub: github.com/Roshini999/redux-vs-context
         </p>
       </div>
     </div>
